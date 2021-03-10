@@ -8,12 +8,32 @@ body {
 	
 }
 
-.centered_container {
+#main_container0 {
 	margin: 0 auto;
-	width: 1200px;
-	min-height: 300px;
-	overflow: hidden;
+	width: 1200px; 
 	padding-top: 40px;
+}
+
+#my_image {
+	width: 370px;
+  	height: 384px;
+	margin-right: 28px;
+	border: dotted 1px red;
+}
+
+#about_box {
+	width: 768px;
+	background-color: rgb(225,225,225);
+	padding: 15px;
+	border: dotted 1px red;
+	float: right;
+}
+
+#main_container1 {
+	margin: 0 auto;
+	width: 1200px; 
+	height: 387px; 
+	padding-top: 30px;
 }
 
 #first_box {
@@ -42,21 +62,6 @@ body {
 	margin-left: 102px;
 }
 
-#about_box {
-	width: 768px;
-	float: right;
-	background-color: rgb(225,225,225);
-	padding: 15px;
-	border: dotted 1px red;
-}
-
-#my_image {
-	float: left;
-	width: 370px;
-  	height: 384px;
-	border: dotted 1px red;
-}
-
 .centered_text {
 	text-align: center;
 }
@@ -68,36 +73,41 @@ body {
 }
 
 @media only screen and (max-width: 750px) {
-	.centered_container {
+	#main_container0 {
 		width: 100%;
 	}
 
+	#my_image {
+	}
+
+	#about_box {
+		width: 100%;
+		float: none;
+		font-size: 14px;
+	}
+
+	#main_container1 {
+		width: 100%;
+	}	
+
 	#first_box {
 		width: 300px;
-		float: none;
 		margin: 0 auto;
+		float: none;
+		margin-top: 20px;
 	}
 
 	#second_box {
 		width: 300px;
 		margin: 0 auto;
 		float: none;
+		margin-top: 20px;
 	}
 
 	#third_box {
 		width: 300px;
-		float: none;
 		margin: 0 auto;
-	}
-
-	#about_box {
-		width: 100%;
 		float: none;
-	}
-
-	#my_image {
-		float: none;
-		width: 370px;
-	  	height: 384px;
+		margin-top: 20px;
 	}
 }
