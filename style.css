@@ -23,6 +23,7 @@ body {
 
 #about_box {
 	width: 768px;
+	height: 354px;
 	background-color: rgb(225,225,225);
 	padding: 15px;
 	border: dotted 1px red;
@@ -32,12 +33,13 @@ body {
 #main_container1 {
 	margin: 0 auto;
 	width: 1200px; 
-	height: 387px; 
+	height: 237px; 
 	padding-top: 30px;
 }
 
 #first_box {
 	width: 300px;
+	height: 100%; 
 	float: left;
 	background-color: rgb(225,225,225);
 	padding: 15px;
@@ -47,6 +49,7 @@ body {
 
 #second_box {
 	width: 300px;
+	height: 100%; 
 	float: left;
 	background-color: rgb(225,225,225);
 	padding: 15px;
@@ -55,6 +58,7 @@ body {
 
 #third_box {
 	width: 300px;
+	height: 100%;
 	float: left;
 	background-color: rgb(225,225,225);
 	padding: 15px;
