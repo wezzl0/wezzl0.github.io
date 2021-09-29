@@ -15,11 +15,11 @@ Alma College,Michigan,48400,89900,52,15,0.857,15
 Amberton University,Texas,52800,93600,57,0,0.773,24
 Amherst College,Massachusetts,63800,116500,45,32,0.826,10
 Amridge University,Alabama,35700,65900,0,0,0.846,24
-Anderson University (South Caroli0),South-Carolina,39900,70100,51,5,0.757,22
+Anderson University (South Carolina),South-Carolina,39900,70100,51,5,0.757,22
 Andrews University,Michigan,47600,85000,51,7,0.786,21
 Appalachian State University,North-Carolina,46600,82700,47,9,0.775,15
-Arizo0 Christian University,Arizona,42600,76600,0,7,0.798,5
-Arizo0 State University-Tempe,Arizona,54500,100900,52,30,0.851,3
+Arizona Christian University,Arizona,42600,76600,0,7,0.798,5
+Arizona State University-Tempe,Arizona,54500,100900,52,30,0.851,3
 Arkansas State University-Main Campus,Arkansas,44600,81400,52,7,0.825,6
 Arkansas Tech University,Arkansas,45000,76900,54,7,0.709,13
 Armstrong State University,Georgia,46600,81500,60,10,0.749,16
@@ -29,14 +29,14 @@ Auburn University,Alabama,54400,104500,51,31,0.921,1
 Auburn University at Montgomery,Alabama,45000,79600,61,12,0.769,13
 Augsburg University,Minnesota,50500,91000,52,11,0.802,12
 Augusta University,Georgia,47000,84400,69,10,0.796,13
-Augusta0 University,South-Dakota,47900,88400,54,18,0.846,3
+Augustana University,South-Dakota,47900,88400,54,18,0.846,3
 Austin Peay State University,Tennessee,44200,78200,63,10,0.769,20
 Avila University,Missouri,45900,81200,68,3,0.769,17
 Babson College,Massachusetts,72000,133800,37,0,0.858,4
 Baker University,Kansas,47800,84200,55,2,0.762,10
 Ball State University,Indiana,45600,83700,48,7,0.836,22
 Baptist Memorial College of Health Sciences,Tennessee,55700,95700,90,4,0.718,5
-Bar0rd College,New-York,59200,109800,57,19,0.855,19
+Barnard College,New-York,59200,109800,57,19,0.855,19
 Barnes-Jewish College Goldfarb School of Nursing,Missouri,55000,95200,83,0,0.731,5
 Barry University,Florida,47400,84400,66,12,0.781,24
 Barton College,North-Carolina,42400,77900,62,6,0.837,24
@@ -84,14 +84,14 @@ Bucknell University,Pennsylvania,66700,122900,40,40,0.843,5
 Butler University,Indiana,51800,99300,53,9,0.917,7
 California Institute of Technology,California,84100,151600,53,97,0.803,3
 California Polytechnic State University-San Luis Obispo,California,65600,119500,51,38,0.822,12
-California State Polytechnic University-Pomo0,California,57700,110800,50,30,0.92,21
+California State Polytechnic University-Pomona,California,57700,110800,50,30,0.92,21
 California State University Maritime Academy,California,70500,129600,57,15,0.838,8
 Calvin College,Michigan,50200,91100,54,23,0.815,13
 Cameron University,Oklahoma,43900,81500,54,14,0.856,11
 Campbell University,North-Carolina,46300,82400,56,8,0.78,16
 Campbellsville University,Kentucky,37600,66800,50,7,0.777,24
 Capitol Technology University,Maryland,67400,118400,63,88,0.757,2
-Cardi0l Stritch University,Wisconsin,47000,82500,51,2,0.755,20
+Cardinal Stritch University,Wisconsin,47000,82500,51,2,0.755,20
 Carleton College,Minnesota,58800,109900,47,45,0.869,1
 Carnegie Mellon University,Pennsylvania,75900,136100,45,66,0.793,1
 Carroll College,Montana,48200,91400,55,25,0.896,3
@@ -101,7 +101,7 @@ Carthage College,Wisconsin,48900,85400,48,17,0.746,18
 Case Western Reserve University,Ohio,66600,117800,44,37,0.769,1
 Castleton University,Vermont,41700,76200,52,6,0.827,11
 Catawba College,North-Carolina,42500,78100,58,11,0.838,22
-Cente0ry College of Louisia0,Louisiana,47000,88400,37,26,0.881,10
+Centenary College of Louisiana,Louisiana,47000,88400,37,26,0.881,10
 Central Baptist College,Arkansas,36900,68000,0,3,0.843,18
 Central Christian College of Kansas,Kansas,37100,66100,0,2,0.782,25
 Central College,Iowa,49000,88800,55,36,0.812,9
@@ -110,16 +110,16 @@ Central Michigan University,Michigan,47700,83600,46,13,0.753,23
 Central Washington University,Washington,52700,93200,47,13,0.769,14
 Centre College,Kentucky,49500,88500,52,22,0.788,4
 Chadron State College,Nebraska,42300,76700,66,3,0.813,16
-Chami0de University of Honolulu,Hawaii,45400,84000,55,3,0.85,4
+Chaminade University of Honolulu,Hawaii,45400,84000,55,3,0.85,4
 Champlain College,Vermont,51100,88400,39,14,0.73,7
 Charles R Drew University of Medicine and Science,California,78300,135700,0,3,0.733,5
 Charleston Southern University,South-Carolina,42800,76300,65,9,0.783,17
 Charter Oak State College,Connecticut,49200,85900,68,2,0.746,18
 Christian Brothers University,Tennessee,51500,96500,60,14,0.874,4
 Christopher Newport University,Virginia,50800,87200,55,25,0.717,17
-Citadel Military College of South Caroli0,South-Carolina,60400,108100,62,19,0.79,1
+Citadel Military College of South Carolina,South-Carolina,60400,108100,62,19,0.79,1
 City University of Seattle,Washington,51500,94600,54,4,0.837,13
-Claremont McKen0 College,California,68500,125400,43,16,0.831,9
+Claremont McKenna College,California,68500,125400,43,16,0.831,9
 Clark Atlanta University,Georgia,46300,81100,54,15,0.752,18
 Clark College,Washington,43500,78400,0,9,0.802,24
 Clark University,Massachusetts,52600,101400,47,14,0.928,23
@@ -130,7 +130,7 @@ Clayton  State University,Georgia,46400,81200,54,9,0.75,17
 Cleary University,Michigan,47400,84700,50,0,0.787,22
 Clemson University,South-Carolina,57500,106700,50,39,0.856,2
 Cleveland State University,Ohio,48300,88600,51,20,0.834,21
-Coastal Caroli0 University,South-Carolina,44700,77600,48,14,0.736,13
+Coastal Carolina University,South-Carolina,44700,77600,48,14,0.736,13
 Coe College,Iowa,47200,86900,41,24,0.841,13
 Colby College,Maine,59200,103300,50,25,0.745,4
 Colby-Sawyer College,New-Hampshire,46400,83700,43,7,0.804,9
@@ -149,8 +149,8 @@ Colorado School of Mines,Colorado,75600,139600,60,93,0.847,1
 Colorado State University-Fort Collins,Colorado,53500,96100,51,28,0.796,6
 Colorado State University-Pueblo,Colorado,48100,87600,62,13,0.821,10
 Columbia College (Missouri),Missouri,44100,76600,52,2,0.737,25
-Columbia College (South Caroli0),South-Carolina,39200,68300,56,6,0.742,23
-Columbia Inter0tio0l University,South-Carolina,36600,66200,62,0,0.809,25
+Columbia College (South Carolina),South-Carolina,39200,68300,56,6,0.742,23
+Columbia International University,South-Carolina,36600,66200,62,0,0.809,25
 Columbia University in the City of New York,New-York,71400,126800,45,30,0.776,10
 Columbus State University,Georgia,43300,77900,59,10,0.799,25
 Concord University,West-Virginia,41700,75800,53,9,0.818,13
@@ -166,7 +166,7 @@ Corban University,Oregon,42500,77300,63,1,0.819,21
 Cornell College,Iowa,49600,90600,47,22,0.827,6
 Cornell University,New-York,70100,128200,45,43,0.829,9
 Cornish College of the Arts,Washington,49000,86400,39,0,0.763,21
-Cove0nt College,Georgia,44400,79400,62,19,0.788,24
+Covenant College,Georgia,44400,79400,62,19,0.788,24
 Creighton University,Nebraska,53500,95800,56,9,0.791,2
 Cumberland University,Tennessee,45500,81000,61,3,0.78,16
 Dakota State University,South-Dakota,48400,84300,49,53,0.742,5
@@ -183,7 +183,7 @@ Dickinson College,Pennsylvania,55800,100100,46,25,0.794,21
 Dickinson State University,North-Dakota,46400,81200,55,8,0.75,5
 Dillard University,Louisiana,44700,79800,74,20,0.785,17
 Doane University-Arts & Sciences,Nebraska,47300,85300,51,21,0.803,9
-Doane University-Graduate and Professio0l Studies,Nebraska,43200,77000,54,0,0.782,15
+Doane University-Graduate and Professional Studies,Nebraska,43200,77000,54,0,0.782,15
 Dordt College,Iowa,51000,89600,57,17,0.757,8
 Drake University,Iowa,52800,99900,49,7,0.892,2
 Drew University,New-Jersey,52800,95000,37,16,0.799,16
@@ -192,7 +192,7 @@ Drury University,Missouri,42600,79400,60,12,0.864,19
 Duke University,North-Carolina,71100,132100,50,26,0.858,1
 Dunwoody College of Technology,Minnesota,53400,96600,55,24,0.809,8
 Earlham College,Indiana,49100,88400,57,31,0.8,13
-East Caroli0 University,North-Carolina,48400,85400,55,11,0.764,11
+East Carolina University,North-Carolina,48400,85400,55,11,0.764,11
 East Central University,Oklahoma,44700,77500,66,9,0.734,17
 East Tennessee State University,Tennessee,43700,77300,57,8,0.769,22
 Eastern Connecticut State University,Connecticut,49200,87800,43,14,0.785,17
@@ -204,9 +204,9 @@ Eastern Washington University,Washington,49500,87500,52,17,0.768,20
 Eckerd College,Florida,49200,88400,52,25,0.797,17
 Edgewood College,Wisconsin,49500,87500,54,5,0.768,15
 Elon University,North-Carolina,53600,93700,43,7,0.748,6
-Embry-Riddle Aero0utical University-Dayto0 Beach,Florida,63300,111200,58,35,0.757,1
-Embry-Riddle Aero0utical University-Prescott,Arizona,65600,117900,59,43,0.797,1
-Embry-Riddle Aero0utical University-Worldwide,Florida,55800,96800,67,3,0.735,7
+Embry-Riddle Aeronautical University-Daytona Beach,Florida,63300,111200,58,35,0.757,1
+Embry-Riddle Aeronautical University-Prescott,Arizona,65600,117900,59,43,0.797,1
+Embry-Riddle Aeronautical University-Worldwide,Florida,55800,96800,67,3,0.735,7
 Emory University,Georgia,62000,110800,44,20,0.787,2
 Emporia State University,Kansas,43500,78000,60,9,0.793,19
 Erskine College,South-Carolina,43500,78000,57,28,0.793,12
@@ -223,13 +223,13 @@ Fisk University,Tennessee,45300,83600,53,39,0.845,11
 Florida Agricultural and Mechanical University,Florida,48000,83900,62,8,0.748,25
 Florida Atlantic University,Florida,49400,91200,51,15,0.846,11
 Florida Institute of Technology,Florida,58300,105400,53,48,0.808,3
-Florida Inter0tio0l University,Florida,49600,90100,51,16,0.817,13
+Florida International University,Florida,49600,90100,51,16,0.817,13
 Florida State University,Florida,50800,92700,49,18,0.825,8
 Fordham University,New-York,58700,112500,38,10,0.917,17
 Fort Hays State University,Kansas,45100,79300,64,6,0.758,16
 Fort Lewis College,Colorado,48300,82600,55,19,0.71,13
 Francis Marion University,South-Carolina,42900,77600,58,18,0.809,13
-Franciscan Missio0ries of Our Lady University,Louisiana,51200,90900,87,1,0.775,8
+Franciscan Missionaries of Our Lady University,Louisiana,51200,90900,87,1,0.775,8
 Franklin and Marshall College,Pennsylvania,57200,109700,42,23,0.918,11
 Franklin College,Indiana,48900,86200,45,21,0.763,16
 Franklin Pierce University,New-Hampshire,47800,85600,52,3,0.791,7
@@ -285,11 +285,11 @@ Illinois Institute of Technology,Illinois,64600,118500,47,64,0.834,1
 Illinois State University,Illinois,51200,95000,47,10,0.855,16
 Illinois Wesleyan University,Illinois,53100,96000,44,18,0.808,12
 Independence University,Utah,40500,74100,78,2,0.83,10
-India0 Institute of Technology,Indiana,50000,84900,46,11,0.698,19
-India0 State University,Indiana,47900,85600,55,8,0.787,17
-India0 University-Bloomington,Indiana,53600,97100,47,16,0.812,9
-India0 University-Purdue University-Fort Wayne,Indiana,47300,83200,52,17,0.759,24
-India0 University-Purdue University-India0polis,Indiana,50500,88200,55,15,0.747,14
+Indiana Institute of Technology,Indiana,50000,84900,46,11,0.698,19
+Indiana State University,Indiana,47900,85600,55,8,0.787,17
+Indiana University-Bloomington,Indiana,53600,97100,47,16,0.812,9
+Indiana University-Purdue University-Fort Wayne,Indiana,47300,83200,52,17,0.759,24
+Indiana University-Purdue University-Indianapolis,Indiana,50500,88200,55,15,0.747,14
 Iowa State University,Iowa,56100,101300,48,31,0.806,1
 Iowa Wesleyan University,Iowa,42600,77200,60,8,0.812,25
 Jackson State University,Mississippi,41700,74600,67,16,0.789,6
@@ -345,11 +345,11 @@ Linfield College-Online and Continuing Education,Oregon,50900,94000,0,0,0.847,8
 Lipscomb University,Tennessee,49000,84800,59,12,0.731,9
 Longwood University,Virginia,47300,83300,54,9,0.761,21
 Loras College,Iowa,48000,90100,56,14,0.877,7
-Louisia0 College,Louisiana,44800,79800,58,4,0.781,17
-Louisia0 State University and Agricultural & Mechanical College,Louisiana,54800,102900,53,24,0.878,2
-Louisia0 State University Health Sciences Center-New Orleans,Louisiana,52300,94200,86,2,0.801,4
-Louisia0 State University-Shreveport,Louisiana,44500,79800,54,10,0.793,17
-Louisia0 Tech University,Louisiana,53100,100700,57,24,0.896,3
+Louisiana College,Louisiana,44800,79800,58,4,0.781,17
+Louisiana State University and Agricultural & Mechanical College,Louisiana,54800,102900,53,24,0.878,2
+Louisiana State University Health Sciences Center-New Orleans,Louisiana,52300,94200,86,2,0.801,4
+Louisiana State University-Shreveport,Louisiana,44500,79800,54,10,0.793,17
+Louisiana Tech University,Louisiana,53100,100700,57,24,0.896,3
 Loyola Marymount University,California,58500,113300,39,9,0.937,18
 Loyola University Chicago,Illinois,53400,96000,45,15,0.798,12
 Loyola University Maryland,Maryland,59900,111200,40,8,0.856,5
@@ -360,13 +360,13 @@ Lyndon State College,Vermont,41500,75100,49,8,0.81,13
 Lynn University,Florida,46100,85000,45,2,0.844,22
 Lyon College,Arkansas,41200,74300,53,33,0.803,15
 Macalester College,Minnesota,53600,100400,51,31,0.873,6
-Maharishi University of Ma0gement,Iowa,46800,85200,0,65,0.821,16
+Maharishi University of Management,Iowa,46800,85200,0,65,0.821,16
 Maine College of Art,Maine,36300,64600,37,0,0.78,17
 Maine Maritime Academy,Maine,67000,121800,65,48,0.818,1
 Manchester University,Indiana,46900,84700,56,10,0.806,20
 Manhattan Christian College,Kansas,39400,72200,0,0,0.832,24
 Manhattan College,New-York,64000,125700,46,40,0.964,12
-Marian University (India0),Indiana,48400,82000,51,3,0.694,25
+Marian University (Indiana),Indiana,48400,82000,51,3,0.694,25
 Marian University (Wisconsin),Wisconsin,46500,90800,52,2,0.953,8
 Marietta College,Ohio,51200,94300,57,45,0.842,15
 Marquette University,Wisconsin,57800,105900,52,25,0.832,2
@@ -383,7 +383,7 @@ McDaniel College,Maryland,51100,94600,54,6,0.851,12
 McNeese State University,Louisiana,50200,88200,57,13,0.757,11
 McPherson College,Kansas,44500,80900,59,9,0.818,14
 MCPHS University,Massachusetts,65900,121800,71,2,0.848,6
-Medical University of South Caroli0,South-Carolina,54800,92700,88,6,0.692,5
+Medical University of South Carolina,South-Carolina,54800,92700,88,6,0.692,5
 Menlo College,California,61900,112400,59,0,0.816,20
 Mercer University,Georgia,48500,85100,62,14,0.755,11
 Merrimack College,Massachusetts,56000,102500,50,13,0.83,22
@@ -395,7 +395,7 @@ Miami University-Oxford,Ohio,57200,107300,46,22,0.876,2
 Michigan State University,Michigan,55300,100800,46,20,0.823,5
 Michigan Technological University,Michigan,65000,116300,47,81,0.789,2
 Mid-America Christian University,Oklahoma,40700,74100,71,0,0.821,21
-MidAmerica 0zarene University,Kansas,46200,78500,60,1,0.699,18
+MidAmerica Nazarene University,Kansas,46200,78500,60,1,0.699,18
 Middle Georgia State University,Georgia,44000,79800,57,11,0.814,23
 Middle Tennessee State University,Tennessee,46500,81100,52,9,0.744,15
 Middlebury College,Vermont,60400,109800,54,19,0.818,1
@@ -416,10 +416,10 @@ Missouri State University-Springfield,Missouri,45900,86800,50,9,0.891,11
 Missouri University of Science and Technology,Missouri,67300,122600,50,80,0.822,1
 Missouri Western State University,Missouri,43400,77700,53,14,0.79,22
 Monmouth University,New-Jersey,52200,93200,44,13,0.785,18
-Monta0 State University,Montana,53700,96200,54,31,0.791,2
-Monta0 State University-Billings,Montana,43300,77700,59,5,0.794,7
-Monta0 State University-Northern,Montana,43400,75400,63,1,0.737,8
-Monta0 Tech of the University of Monta0,Montana,61200,112600,64,61,0.84,1
+Montana State University,Montana,53700,96200,54,31,0.791,2
+Montana State University-Billings,Montana,43300,77700,59,5,0.794,7
+Montana State University-Northern,Montana,43400,75400,63,1,0.737,8
+Montana Tech of the University of Montana,Montana,61200,112600,64,61,0.84,1
 Montclair State University,New-Jersey,50800,95400,42,9,0.878,14
 Morehead State University,Kentucky,41300,74900,56,9,0.814,16
 Morehouse College,Georgia,55700,98700,58,26,0.772,4
@@ -431,7 +431,7 @@ Mount St. Mary's University,Maryland,50200,94100,50,11,0.875,13
 Muhlenberg College,Pennsylvania,53400,101900,43,20,0.908,17
 Multnomah University,Oregon,40500,76400,82,0,0.886,22
 Murray State University,Kentucky,44800,79900,56,9,0.783,12
-0zarene Bible College,Colorado,33600,60100,0,0,0.789,19
+nazarene Bible College,Colorado,33600,60100,0,0,0.789,19
 Nebraska Methodist College of Nursing & Allied Health,Nebraska,51300,89800,84,0,0.75,5
 Nebraska Wesleyan University,Nebraska,45700,80500,60,8,0.761,12
 New College of Florida,Florida,47300,86500,40,4,0.829,20
@@ -443,29 +443,29 @@ New Jersey Institute of Technology,New-Jersey,64600,121300,51,75,0.878,3
 New Mexico Highlands University,New-Mexico,40400,73800,63,4,0.827,6
 New Mexico Institute of Mining and Technology,New-Mexico,64700,120400,61,91,0.861,1
 New Mexico State University-Main Campus,New-Mexico,50400,96700,60,22,0.919,2
-New Orleans Baptist Theological Semi0ry,Louisiana,33900,61500,0,0,0.814,23
+New Orleans Baptist Theological Seminary,Louisiana,33900,61500,0,0,0.814,23
 New York University,New-York,63100,117700,42,18,0.865,13
 Newberry College,South-Carolina,41200,74700,54,14,0.813,19
 Newman University,Kansas,48000,88500,66,11,0.844,6
 Nicholls State University,Louisiana,44500,84300,53,5,0.894,14
-North Caroli0 A & T State University,North-Carolina,52600,93400,61,25,0.776,7
-North Caroli0 State University at Raleigh,North-Carolina,57300,106500,52,47,0.859,4
-North Caroli0 Wesleyan College,North-Carolina,45300,78800,62,8,0.74,21
+North Carolina A & T State University,North-Carolina,52600,93400,61,25,0.776,7
+North Carolina State University at Raleigh,North-Carolina,57300,106500,52,47,0.859,4
+North Carolina Wesleyan College,North-Carolina,45300,78800,62,8,0.74,21
 North Central College,Illinois,50400,92900,45,9,0.843,19
 North Dakota State University-Main Campus,North-Dakota,54200,98600,56,27,0.819,1
 Northeastern State University,Oklahoma,44500,77600,58,7,0.744,16
 Northeastern University,Massachusetts,62500,109700,46,40,0.755,16
-Northern Arizo0 University,Arizona,49600,90000,56,12,0.815,4
+Northern Arizona University,Arizona,49600,90000,56,12,0.815,4
 Northern Illinois University,Illinois,53000,95500,47,20,0.802,14
 Northern Kentucky University,Kentucky,49000,87400,46,12,0.784,6
 Northern State University,South-Dakota,42300,77700,56,7,0.837,7
 Northwest Christian University,Oregon,45200,81100,62,5,0.794,17
 Northwest Missouri State University,Missouri,46900,85100,50,26,0.814,13
-Northwest 0zarene University,Idaho,46200,80600,68,7,0.745,6
+Northwest Nazarene University,Idaho,46200,80600,68,7,0.745,6
 Northwest University,Washington,50900,89000,51,3,0.749,16
 Northwestern College,Iowa,44800,82400,42,11,0.839,18
 Northwestern Oklahoma State University,Oklahoma,42200,76800,55,11,0.82,18
-Northwestern State University of Louisia0,Louisiana,44300,79300,62,6,0.79,20
+Northwestern State University of Louisiana,Louisiana,44300,79300,62,6,0.79,20
 Northwestern University,Illinois,63400,115400,46,20,0.82,2
 Northwood University,Michigan,47800,86300,47,1,0.805,19
 Norwich University,Vermont,57000,99100,51,20,0.739,3
@@ -512,7 +512,7 @@ Pittsburg State University,Kansas,47100,84900,51,8,0.803,8
 Plymouth State University,New-Hampshire,47000,82200,50,6,0.749,12
 Polytechnic University of Puerto Rico-Miami,Florida,60600,108300,61,10,0.787,2
 Polytechnic University of Puerto Rico-Orlando,Florida,57600,102200,66,29,0.774,5
-Pomo0 College,California,63800,117200,47,37,0.837,13
+Pomona College,California,63800,117200,47,37,0.837,13
 Portland State University,Oregon,50800,90500,48,16,0.781,12
 Prairie View A&M University,Texas,57800,99400,65,22,0.72,17
 Presbyterian College,South-Carolina,48800,89900,57,14,0.842,6
@@ -550,7 +550,7 @@ Rutgers University-Camden,New-Jersey,51100,93900,50,9,0.838,17
 Rutgers University-New Brunswick,New-Jersey,59800,111000,42,29,0.856,4
 Rutgers University-Newark,New-Jersey,57900,101800,52,11,0.758,6
 Sacred Heart University,Connecticut,55000,100500,46,15,0.827,9
-Sagi0w Valley State University,Michigan,46400,82200,54,12,0.772,25
+Saginaw Valley State University,Michigan,46400,82200,54,12,0.772,25
 Saint Ambrose University,Iowa,46900,84400,48,8,0.8,17
 Saint Anselm College,New-Hampshire,56400,100300,59,11,0.778,2
 Saint Cloud State University,Minnesota,51600,91600,50,15,0.775,11
@@ -568,27 +568,27 @@ Saint Norbert College,Wisconsin,49300,88700,40,15,0.799,13
 Saint Peter's University,New-Jersey,52900,95900,35,14,0.813,12
 Saint Xavier University,Illinois,49400,91200,60,10,0.846,20
 Salisbury University,Maryland,50400,89800,51,12,0.782,19
-Salve Regi0 University,Rhode-Island,53000,93900,50,6,0.772,6
+Salve Regina University,Rhode-Island,53000,93900,50,6,0.772,6
 Samford University,Alabama,48400,90500,52,3,0.87,5
 Samuel Merritt University,California,91200,154100,90,0,0.69,2
 San Jose State University,California,63000,114700,53,28,0.821,17
 Santa Clara University,California,69900,134700,44,29,0.927,6
-Savan0h College of Art and Design,Georgia,46800,80100,34,3,0.712,21
+Savannah College of Art and Design,Georgia,46800,80100,34,3,0.712,21
 Seattle Pacific University,Washington,53600,103400,52,9,0.929,6
 Seattle University,Washington,60600,113700,59,12,0.876,1
 Seton Hall University,New-Jersey,57100,103800,45,8,0.818,5
 Sewanee-The University of the South,Tennessee,53700,97800,57,17,0.821,2
-She0ndoah University,Virginia,48700,86600,57,7,0.778,18
+Shenandoah University,Virginia,48700,86600,57,7,0.778,18
 Shepherd University,West-Virginia,47100,87100,48,12,0.849,4
 Shorter University,Georgia,45600,79900,55,6,0.752,22
 Sierra Nevada College,Nevada,54000,95500,39,2,0.769,1
 Simpson College,Iowa,49900,88600,47,17,0.776,11
 Smith College,Massachusetts,52700,98200,51,26,0.863,24
-South Caroli0 State University,South-Carolina,44500,80800,71,16,0.816,10
+South Carolina State University,South-Carolina,44500,80800,71,16,0.816,10
 South Dakota School of Mines and Technology,South-Dakota,66500,118500,58,92,0.782,1
 South Dakota State University,South-Dakota,50500,91900,58,18,0.82,2
 Southeast Missouri State University,Missouri,43700,79100,52,9,0.81,20
-Southeastern Louisia0 University,Louisiana,46700,83900,51,8,0.797,15
+Southeastern Louisiana University,Louisiana,46700,83900,51,8,0.797,15
 Southeastern Oklahoma State University,Oklahoma,45000,80500,53,15,0.789,14
 Southern Adventist University,Tennessee,47500,84000,67,9,0.768,10
 Southern Arkansas University Main Campus,Arkansas,42800,80100,56,53,0.871,9
@@ -596,7 +596,7 @@ Southern Connecticut State University,Connecticut,48500,83600,51,6,0.724,20
 Southern Illinois University-Carbondale,Illinois,49700,90900,54,17,0.829,21
 Southern Illinois University-Edwardsville,Illinois,51400,90100,50,21,0.753,24
 Southern Methodist University,Texas,59700,110400,46,22,0.849,5
-Southern 0zarene University,Oklahoma,46100,81000,62,5,0.757,13
+Southern Nazarene University,Oklahoma,46100,81000,62,5,0.757,13
 Southern New Hampshire University,New-Hampshire,47400,83400,49,8,0.759,11
 Southern Oregon University,Oregon,46000,81200,54,6,0.765,16
 Southern University and A&M College,Louisiana,48000,83100,65,17,0.731,16
@@ -623,7 +623,7 @@ Stephens College,Missouri,42800,77200,47,6,0.804,24
 Sterling College,Kansas,42700,79100,73,7,0.852,17
 Stetson University,Florida,47000,86000,44,7,0.83,21
 Stevens Institute of Technology,New-Jersey,75100,139900,47,79,0.863,1
-"Stevens-He0ger College (Murray, Utah)",Utah,42400,76100,54,51,0.795,9
+"Stevens-Henager College (Murray, Utah)",Utah,42400,76100,54,51,0.795,9
 Stevenson University,Maryland,50400,91600,51,15,0.817,15
 Stockton University,New-Jersey,47400,85800,49,16,0.81,25
 Stonehill College,Massachusetts,55900,103200,42,18,0.846,19
@@ -648,8 +648,8 @@ The Evergreen State College,Washington,47500,83500,47,0,0.758,23
 The King's University,Texas,63800,116500,33,0,0.826,2
 The University of Alabama,Alabama,52300,97400,50,15,0.862,3
 The University of Findlay,Ohio,49100,87900,53,3,0.79,23
-The University of Monta0,Montana,46500,87800,51,8,0.888,4
-The University of Monta0-Western,Montana,35400,63700,63,4,0.799,9
+The University of Montana,Montana,46500,87800,51,8,0.888,4
+The University of Montana-Western,Montana,35400,63700,63,4,0.799,9
 The University of Tampa,Florida,49200,91500,48,8,0.86,9
 The University of Tennessee-Chattanooga,Tennessee,46000,82300,56,17,0.789,13
 The University of Tennessee-Knoxville,Tennessee,51200,95100,52,21,0.857,6
@@ -669,7 +669,7 @@ Thomas More College of Liberal Arts,New-Hampshire,48900,88300,0,0,0.806,5
 Tougaloo College,Mississippi,36900,66400,69,18,0.799,12
 Towson University,Maryland,51200,91200,47,15,0.781,16
 Transylvania University,Kentucky,47900,85600,51,25,0.787,7
-Trevecca 0zarene University,Tennessee,45300,81700,65,5,0.804,14
+Trevecca Nazarene University,Tennessee,45300,81700,65,5,0.804,14
 Trine University,Indiana,55100,100300,56,26,0.82,6
 Trinity Bible College and Graduate School,North-Dakota,34100,61300,0,0,0.798,9
 Trinity College,Connecticut,60100,110900,49,22,0.845,5
@@ -677,7 +677,7 @@ Trinity University,Texas,54900,102900,46,27,0.874,11
 Troy University,Alabama,44500,81500,60,8,0.831,11
 Truman State University,Missouri,47900,85800,48,16,0.791,12
 Tufts University,Massachusetts,65200,118100,49,25,0.811,7
-Tulane University of Louisia0,Louisiana,56800,105300,44,22,0.854,1
+Tulane University of Louisiana,Louisiana,56800,105300,44,22,0.854,1
 Tuskegee University,Alabama,54500,93500,61,30,0.716,4
 Union College (Kentucky),Kentucky,40400,76000,37,4,0.881,15
 Union College (Nebraska),Nebraska,49100,87800,55,9,0.788,7
@@ -687,14 +687,14 @@ United States Air Force Academy,Colorado,76300,138100,69,43,0.81,2
 United States Coast Guard Academy,Connecticut,67300,118100,68,69,0.755,2
 United States Merchant Marine Academy,New-York,80600,140700,62,56,0.746,4
 United States Military Academy,New-York,80200,144000,61,39,0.796,2
-United States 0val Academy,Maryland,80100,152800,64,58,0.908,1
+United States Naval Academy,Maryland,80100,152800,64,58,0.908,1
 Unity College,Maine,38200,69500,0,23,0.819,15
 University of Akron Main Campus,Ohio,50700,89200,48,22,0.759,20
 University of Alabama at Birmingham,Alabama,48600,87200,57,17,0.794,8
 University of Alabama in Huntsville,Alabama,57500,103900,59,45,0.807,2
 University of Alaska Anchorage,Alaska,56000,101000,57,10,0.804,2
 University of Alaska Fairbanks,Alaska,59100,101800,54,20,0.723,1
-University of Arizo0,Arizona,56100,101000,51,23,0.8,2
+University of Arizona,Arizona,56100,101000,51,23,0.8,2
 University of Arkansas,Arkansas,52500,98000,49,18,0.867,1
 University of Arkansas at Little Rock,Arkansas,45600,80800,55,13,0.772,7
 University of Arkansas at Monticello,Arkansas,43500,78300,61,2,0.8,12
@@ -715,7 +715,7 @@ University of Central Missouri,Missouri,46900,83300,54,45,0.776,16
 University of Central Oklahoma,Oklahoma,45300,82900,56,8,0.83,10
 University of Charleston,West-Virginia,44600,81900,51,4,0.836,8
 University of Chicago,Illinois,64000,114200,41,22,0.784,4
-University of Cincin0ti-Main Campus,Ohio,53600,97300,50,19,0.815,11
+University of Cincinnati-Main Campus,Ohio,53600,97300,50,19,0.815,11
 University of Colorado Boulder,Colorado,57800,109900,48,39,0.901,3
 University of Colorado Colorado Springs,Colorado,52200,90900,53,21,0.741,9
 University of Colorado Denver/Anschutz Medical Campus,Colorado,53200,95600,52,17,0.797,7
@@ -738,14 +738,14 @@ University of Houston,Texas,56000,103900,50,24,0.855,9
 University of Houston-Clear Lake,Texas,50700,94800,48,29,0.87,23
 University of Idaho,Idaho,52300,97700,54,22,0.868,1
 University of Illinois at Chicago,Illinois,56300,103800,48,31,0.844,7
-University of Illinois at Urba0-Champaign,Illinois,62600,115300,44,36,0.842,3
-University of India0polis,Indiana,47300,84500,55,5,0.786,21
+University of Illinois at Urbana-Champaign,Illinois,62600,115300,44,36,0.842,3
+University of Indianapolis,Indiana,47300,84500,55,5,0.786,21
 University of Iowa,Iowa,54100,99400,48,16,0.837,3
 University of Jamestown,North-Dakota,47600,85400,64,11,0.794,3
 University of Kansas,Kansas,53000,98600,52,16,0.86,1
 University of Kentucky,Kentucky,51700,96400,48,19,0.865,1
-University of Louisia0 at Lafayette,Louisiana,48200,92500,52,19,0.919,5
-University of Louisia0 at Monroe,Louisiana,48500,92500,65,7,0.907,5
+University of Louisiana at Lafayette,Louisiana,48200,92500,52,19,0.919,5
+University of Louisiana at Monroe,Louisiana,48500,92500,65,7,0.907,5
 University of Louisville,Kentucky,49500,87600,50,18,0.77,5
 University of Maine,Maine,52000,95000,50,24,0.827,5
 University of Maine at Augusta,Maine,41600,73100,61,7,0.757,12
@@ -790,10 +790,10 @@ University of New Haven,Connecticut,52100,94800,52,25,0.82,11
 University of New Mexico-Main Campus,New-Mexico,48400,94000,59,19,0.942,3
 University of New Orleans,Louisiana,49900,91600,55,23,0.836,7
 University of North Alabama,Alabama,43000,75600,61,6,0.758,18
-University of North Caroli0 at Chapel Hill,North-Carolina,55000,100800,49,19,0.833,5
-University of North Caroli0 at Charlotte,North-Carolina,52500,92600,49,25,0.764,8
-University of North Caroli0 School of the Arts,North-Carolina,46400,82400,44,0,0.776,16
-University of North Caroli0 Wilmington,North-Carolina,46400,80500,47,14,0.735,19
+University of North Carolina at Chapel Hill,North-Carolina,55000,100800,49,19,0.833,5
+University of North Carolina at Charlotte,North-Carolina,52500,92600,49,25,0.764,8
+University of North Carolina School of the Arts,North-Carolina,46400,82400,44,0,0.776,16
+University of North Carolina Wilmington,North-Carolina,46400,80500,47,14,0.735,19
 University of North Dakota,North-Dakota,53800,96000,54,16,0.784,2
 University of North Florida,Florida,48800,86600,51,11,0.775,19
 University of North Georgia,Georgia,47300,85600,51,8,0.81,9
@@ -821,9 +821,9 @@ University of Science and Arts of Oklahoma,Oklahoma,37300,67400,49,11,0.807,23
 University of Scranton,Pennsylvania,56400,99700,42,12,0.768,23
 University of Sioux Falls,South-Dakota,44400,78200,64,6,0.761,6
 University of South Alabama,Alabama,47700,86400,56,17,0.811,9
-University of South Caroli0-Aiken,South-Carolina,41600,75100,58,10,0.805,18
-University of South Caroli0-Columbia,South-Carolina,50300,89900,52,20,0.787,6
-University of South Caroli0-Upstate,South-Carolina,46000,81400,50,13,0.77,9
+University of South Carolina-Aiken,South-Carolina,41600,75100,58,10,0.805,18
+University of South Carolina-Columbia,South-Carolina,50300,89900,52,20,0.787,6
+University of South Carolina-Upstate,South-Carolina,46000,81400,50,13,0.77,9
 University of South Dakota,South-Dakota,47500,87900,56,8,0.851,4
 University of South Florida-Main Campus,Florida,49700,91300,49,25,0.837,10
 University of Southern California,California,64500,120600,47,23,0.87,11
@@ -896,7 +896,7 @@ West Virginia University,West-Virginia,54400,99900,52,22,0.836,2
 West Virginia University at Parkersburg,West-Virginia,36700,65200,67,3,0.777,18
 West Virginia University Institute of Technology,West-Virginia,57100,103700,56,40,0.816,1
 West Virginia Wesleyan College,West-Virginia,47000,85200,53,21,0.813,5
-Western Caroli0 University,North-Carolina,44700,77700,58,8,0.738,25
+Western Carolina University,North-Carolina,44700,77700,58,8,0.738,25
 Western Connecticut State University,Connecticut,51700,88100,50,6,0.704,15
 Western Governors University,Utah,54500,91500,57,9,0.679,6
 Western Kentucky University,Kentucky,45500,83100,49,10,0.826,8
@@ -923,7 +923,7 @@ William Paterson University of New Jersey,New-Jersey,50500,90200,44,7,0.786,21
 William Penn University,Iowa,43900,78300,59,7,0.784,23
 Williams College,Massachusetts,67500,127500,47,32,0.889,5
 Wilmington University,Delaware,45100,76600,50,4,0.698,5
-Wino0 State University,Minnesota,49700,86800,51,10,0.746,16
+Winona State University,Minnesota,49700,86800,51,10,0.746,16
 Winthrop University,South-Carolina,44300,79700,49,9,0.799,11
 Wisconsin Lutheran College,Wisconsin,46200,82500,45,10,0.786,20
 Wittenberg University,Ohio,52400,105400,61,22,1.011,3
@@ -931,6 +931,6 @@ Wofford College,South-Carolina,51300,96600,51,28,0.883,4
 Worcester Polytechnic Institute,Massachusetts,73600,135500,47,86,0.841,3
 Wright State University-Main Campus,Ohio,50300,87800,49,31,0.746,24
 Xavier University,Ohio,51800,94000,46,7,0.815,16
-Xavier University of Louisia0,Louisiana,46700,88200,63,35,0.889,11
+Xavier University of Louisiana,Louisiana,46700,88200,63,35,0.889,11
 Yale University,Connecticut,70300,138300,53,22,0.967,1
 Yeshiva University,New-York,63500,112800,40,11,0.776,15
