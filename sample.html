@@ -100,7 +100,8 @@
 
 				const item = collegeData[i]
 				const itemXPos = (i - displayNum) * 30 + 50;
-				const itemHeight = getBarHeight(item[properties[selectedYElement]]);
+				const itemValue = item[properties[selectedYElement]];
+				const itemHeight = getBarHeight(itemValue);
 				const itemYPos = 230 - itemHeight;
 
 				// Draw the elements/bars inside the graph
@@ -118,7 +119,7 @@
 							.attr("text-anchor", "middle")
 							.attr("fill", "red")
 							.attr("id", "value")
-							.text(item[properties[selectedYElement]]);
+							.text(itemValue);
 					})
 					.on("mouseout", function() {
 						d3.select(this).attr("fill", "green");
