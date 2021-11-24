@@ -14,20 +14,20 @@
 <body>
 	<label>X-axis</label>
 	<select onchange="selectionChangeX(this.value)">
-		<option value = "0">By School</option>
+		<option value="0">By School</option>
 	</select>
-	<button onclick="clickInc()" style="margin-left: 96px">Next 30</button>
+	<button onclick="clickInc()" style="margin-left: 96px">Next 30 items</button>
 	<br><br>
 	<label>Y-axis</label>
 	<select onchange="selectionChangeY(this.value)">
-		<option value = "0">Early Career Pay</option>
-		<option value = "1">Mid Career Pay</option>
-		<option value = "2">Make World Better%</option>
-		<option value = "3">Stem Enrollment%</option>
-		<option value = "4">Early to Mid %inc</option>
-		<option value = "5">Salary Pot. Rank For State</option>
+		<option value="0">Early Career Pay</option>
+		<option value="1">Mid Career Pay</option>
+		<option value="2">Make World Better%</option>
+		<option value="3">Stem Enrollment%</option>
+		<option value="4">Early to Mid %inc</option>
+		<option value="5">Salary Pot. Rank For State</option>
 	</select>
-	<button onclick="clickDec()">Prev. 30</button>
+	<button onclick="clickDec()">Prev. 30 items</button>
 	<button onclick="sortObjects()">Sort!</button>
 	<script>
 
@@ -47,6 +47,7 @@
 		let displayNum = 0;			// Draw items to graph starting from this to (this + 30)
 
 		d3.csv("/salary.csv", (items) => {
+			// Copy data from the csv and draw
 			for (let i = 0; i < items.length; i++) {
 				collegeData[i] = items[i];
 			}
@@ -65,12 +66,14 @@
 		}
 
 		function clickInc() {
+			// Move to the next 30 items
 			if (displayNum + 30 >= collegeData.length) return;
 			displayNum += 30;
 			update();
 		}
 
 		function clickDec() {
+			// Move to the previous 30 items
 			if (displayNum === 0) return;
 			displayNum -= 30;
 			update();
@@ -214,6 +217,7 @@
 		}
 	</script>
 	<svg id="container"></svg>
+	<p>A simple JavaScript and D3.js test. Displaying some college statistics as an interactive bar graph, with some hover-over features.</p>
 	<button onclick="update()">Redraw Graph</button>
 </body>
 
