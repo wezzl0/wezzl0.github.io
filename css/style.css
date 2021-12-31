@@ -5,6 +5,10 @@ body {
 	line-height: 1.5em;
 }
 
+a {
+	transition: color .5s;
+}
+
 /* All subcontainers will go in here */
 #main-container {
 	display: grid;
@@ -41,6 +45,18 @@ body {
 	background-color: rgb(225,225,245);
 }
 
+#about-box:hover a:link,
+#links-box:hover a:link,
+.info-box:hover a:link {
+	color: red;
+}
+
+#about-box:hover a:visited,
+#links-box:hover a:visited,
+.info-box:hover a:visited {
+	color: darkolivegreen;
+}
+
 /* Holds my-image and about-box */
 #sub-container-intro {
 	column-gap: 28px;
@@ -58,8 +74,9 @@ body {
 
 /* Inside of sub-containter-links */
 #links-box {
-	width: auto;
+	width: 300px;
 	height: 25px;
+	margin: auto;
 }
 
 :where(#links-box) p {
