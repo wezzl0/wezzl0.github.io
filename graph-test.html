@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>JS Graph Test</title>
+    <script src="scripts/d3.min.js"></script>
+    <style>
+    	#container {
+    		width: 100%;
+    		height: 450px;
+    	}
+    </style>
+</head>
+
+<body>
+	<label>X-axis</label>
+	<select onchange="selectionChangeX(this.value)">
+		<option value="0">By School</option>
+	</select>
+	<button onclick="clickInc()" style="margin-left: 96px">Next 30 items</button>
+	<br><br>
+	<label>Y-axis</label>
+	<select onchange="selectionChangeY(this.value)">
+		<option value="0">Early Career Pay</option>
+		<option value="1">Mid Career Pay</option>
+		<option value="2">Make World Better%</option>
+		<option value="3">Stem Enrollment%</option>
+		<option value="4">Early to Mid %inc</option>
+		<option value="5">Salary Pot. Rank For State</option>
+	</select>
+	<button onclick="clickDec()">Prev. 30 items</button>
+	<button onclick="sortObjects()">Sort!</button>
+	<script src="scripts/graph-test.js"></script>
+	<svg id="container"></svg>
+	<p>A simple JavaScript and D3.js test. Displaying some college statistics as an interactive bar graph, with some hover-over features.</p>
+	<button onclick="update()">Redraw Graph</button>
+</body>
+
+</html>

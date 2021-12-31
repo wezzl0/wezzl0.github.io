@@ -1,0 +1,117 @@
+body {
+	background-color: rgb(105,105,105);
+	color: black;
+	font: 16px Verdana, Helvetica, sans-sarif;
+	line-height: 1.5em;
+}
+
+/* All subcontainers will go in here */
+#main-container {
+	display: grid;
+	justify-items: center;
+	justify-content: space-evenly;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 40px;
+}
+
+/* All other elements will be inside subcontainers */
+#sub-container-intro,
+#sub-container-links, 
+#sub-container-information {
+	display: grid;
+	width: inherit;
+	padding-top: 40px;
+}
+
+#about-box,
+#links-box,
+.info-box {
+	background-color: rgb(225,225,225);
+	transition: background-color .5s, border .5s;
+	padding: 15px;
+	border: dotted 1px red;
+}
+
+#about-box:hover,
+#links-box:hover,
+.info-box:hover {
+	border: dotted 1px blue;
+	background-color: rgb(225,225,245);
+}
+
+/* Holds my-image and about-box */
+#sub-container-intro {
+	column-gap: 28px;
+	grid-template-columns: auto auto;
+}
+
+#my-image {
+	border: dotted 1px red;
+	transition: border .5s;
+}
+
+#my-image:hover {
+	border: dotted 1px blue;
+}
+
+/* Inside of sub-containter-links */
+#links-box {
+	width: auto;
+	height: 25px;
+}
+
+:where(#links-box) p {
+	text-align: center;
+	margin: auto;
+}
+
+/* Holds three info-boxes */
+#sub-container-information {
+	grid-template-columns: auto auto auto;
+	justify-content: space-between;
+}
+
+.info-box {
+	width: 300px;
+	height: 237px;
+}
+
+/* Styling for lists inside of info-boxes */
+:where(.info-box) h2 {
+	text-align: center;
+}
+
+:where(.info-box) ul {
+	text-align: center;
+	list-style: none;
+	padding: 0;
+}
+
+@media only screen and (max-width: 1100px) {
+
+	#main-container {
+		width: auto;
+	}
+
+	#sub-container-intro {
+		grid-template-columns: auto;
+		justify-items: center;
+	}
+
+	#about-box {
+		margin-top: 20px;
+		width: 90%;
+		height: auto;
+	}
+
+	#sub-container-information {
+		grid-template-columns: auto;
+	}
+
+	.info-box {
+		margin-top: 20px;
+	}
+
+}
