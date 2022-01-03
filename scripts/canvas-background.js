@@ -1,3 +1,7 @@
+
+// Ball simulator, runs on a canvas in the background.
+// It's supposed to be more fun than accurate!
+
 class Ball {
     static count = 0;
     static balls = [];
@@ -45,6 +49,12 @@ function simulate() {
 // Updates the position and velocity of all balls on screen
 function update() {
     for (ball of Ball.balls) {
+        // Catching and respawning any NaN balls
+        if (Number.isNaN(ball.x) || Number.isNaN(ball.y)) {
+            ball.x = Math.random() * ctx.canvas.width + 15;
+            ball.y = 20;
+        }
+
         // Add current velocity
         ball.x += ball.vx
         ball.y += ball.vy
@@ -85,6 +95,7 @@ function update() {
             const radiusSum = ball.radius + ball2.radius;
             if (distance <= radiusSum) {
                 // Push balls out of each other equally
+                // Balls will just be respawned if distance is 0
                 const overlap = (distance - radiusSum) / 2;
                 ball.x -= overlap * (ball.x - ball2.x) / distance;
                 ball.y -= overlap * (ball.y - ball2.y) / distance;
