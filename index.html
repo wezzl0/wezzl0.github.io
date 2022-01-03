@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html id="html">
 
 <head>
 	<title>Wessley's Website</title>
@@ -9,23 +9,30 @@
 </head>	
 
 <body>
+	<canvas id="canvas-background"></canvas>
 	<div id="main-container">
 		<div id="sub-container-intro">
-			<img src="images/me1.jpg" alt="A picture of me. You're not missing much!" id="my-image">
+			<img src="images/me1.jpg" alt="Image failed loading" id="my-image" onclick="Ball.agitate()">
 			<div id="about-box">
 				<h1>Hello there!</h1>
 				<p>My name is Wessley Alexander and I'm an undergraduate student studying computer science. I am currently studying and sharpening my skills to work with software professionally.</p>
 				<p>I first started programming with Lua back in 2014. After taking an interest I started learning java, creating some things like a trigonometry calculator and a few small games. In 2018 I enrolled in a university to pursue a degree in Computer Science, which I will complete in late 2022. Currently, I am trying to improve my front-end and database skills, as well as learning various industy practices.</p>
-				<p>I know JavaScript, and I plan on improving this page once I learn more about the available frameworks.</p>
+				<p>I know JavaScript, and I want to make things like a mock online job application, so I can practice using some of the popular frameworks! Also, click my image to shuffle any balls on the screen.</p>
 			</div>
 		</div>
 		<div id="sub-container-links">
-			<div id="links-box">
-				<p>
-					<a href="https://wezzl0.github.io/graph-test.html">Test JS/D3 Page</a>
-					<a href="#" style="padding-left: 0px"></a>		
-				</p>	
+			<div class="links-box">
+				<div>
+					<button onclick="Ball.addBall()">Add 1 Ball</button>
+					<button onclick="Ball.resetBalls()">Clear Balls</button>
+				</div>
 			</div>
+			<div class="links-box">
+				<div>
+					<a href="https://wezzl0.github.io/graph-test.html">Test JS/D3 Page</a>
+				</div>	
+			</div>
+			<div class="links-box" style="visibility: hidden"></div>
 		</div>
 		<div id="sub-container-information">	
 			<div class="info-box">
@@ -63,6 +70,7 @@
 			</div>
 		</div>	
 	</div>
+	<script src="scripts/canvas-background.js"></script>
 </body>
 
 </html>

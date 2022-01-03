@@ -1,3 +1,7 @@
+html {
+	min-height: 100%;
+}
+
 body {
 	background-color: rgb(105,105,105);
 	color: black;
@@ -7,6 +11,13 @@ body {
 
 a {
 	transition: color .5s;
+}
+
+#canvas-background {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
 }
 
 /* All subcontainers will go in here */
@@ -26,11 +37,11 @@ a {
 #sub-container-information {
 	display: grid;
 	width: inherit;
-	padding-top: 40px;
+	margin-top: 40px;
 }
 
 #about-box,
-#links-box,
+.links-box,
 .info-box {
 	background-color: rgb(225,225,225);
 	transition: background-color .5s, border .5s;
@@ -39,20 +50,20 @@ a {
 }
 
 #about-box:hover,
-#links-box:hover,
+.links-box:hover,
 .info-box:hover {
 	border: dotted 1px blue;
-	background-color: rgb(225,225,245);
+	background-color: rgb(225,225,255);
 }
 
 #about-box:hover a:link,
-#links-box:hover a:link,
+.links-box:hover a:link,
 .info-box:hover a:link {
 	color: red;
 }
 
 #about-box:hover a:visited,
-#links-box:hover a:visited,
+.links-box:hover a:visited,
 .info-box:hover a:visited {
 	color: darkolivegreen;
 }
@@ -72,22 +83,37 @@ a {
 	border: dotted 1px blue;
 }
 
-/* Inside of sub-containter-links */
-#links-box {
+/* contains three links-boxes */
+#sub-container-links {
+	grid-template-columns: auto auto auto;
+	justify-content: space-between;
+}
+
+.links-box {
 	width: 300px;
 	height: 25px;
 	margin: auto;
 }
 
-:where(#links-box) p {
+.links-box div {
 	text-align: center;
 	margin: auto;
+}
+
+.links-box button {
+	transition: background-color .5s;
+	background-color: lightcoral;
+}
+
+.links-box:hover button {
+	background-color: lightblue;
 }
 
 /* Holds three info-boxes */
 #sub-container-information {
 	grid-template-columns: auto auto auto;
 	justify-content: space-between;
+	margin-bottom: 20px;
 }
 
 .info-box {
@@ -96,11 +122,11 @@ a {
 }
 
 /* Styling for lists inside of info-boxes */
-:where(.info-box) h2 {
+.info-box h2 {
 	text-align: center;
 }
 
-:where(.info-box) ul {
+.info-box ul {
 	text-align: center;
 	list-style: none;
 	padding: 0;
@@ -123,8 +149,17 @@ a {
 		height: auto;
 	}
 
+	#sub-container-links {
+		grid-template-columns: auto;
+	}
+
+	.links-box {
+		margin-bottom: 20px;
+	}
+
 	#sub-container-information {
 		grid-template-columns: auto;
+		margin-top: 20px;
 	}
 
 	.info-box {
