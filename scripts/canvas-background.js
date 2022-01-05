@@ -88,16 +88,18 @@ function update() {
 
         // N^2, but i feel anything more complex would just be overengineering
         for (ball2 of Ball.balls) {
-            if (ball.id == ball2.id) {
+            if (ball.id === ball2.id) {
                 continue;
             }
-
             // Check if ball and otherBall have collided using pythag. thrm.
             const distance = Math.sqrt((ball.x - ball2.x)*(ball.x - ball2.x) + (ball.y - ball2.y)*(ball.y - ball2.y));
+            // Making sure not to divide by zero
+            if (distance === 0) {
+                continue;
+            }
             const radiusSum = ball.radius + ball2.radius;
             if (distance <= radiusSum) {
                 // Push balls out of each other equally
-                // Balls will just be respawned if distance is 0
                 const overlap = (distance - radiusSum) / 2;
                 ball.x -= overlap * (ball.x - ball2.x) / distance;
                 ball.y -= overlap * (ball.y - ball2.y) / distance;
