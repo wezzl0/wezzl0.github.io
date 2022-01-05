@@ -11,17 +11,19 @@ class Ball {
         this.vx = vx;
         this.vy = vy;
         this.radius = radius;
-        this.color = colors[Math.floor(Math.random() * 9)];
+        this.color = colors[Math.floor(Math.random() * 8)];
         this.id = Ball.count;
         Ball.count++;
     }
 
-    // Add velocity to all balls with a range of -50 to 50
-    // Invoked by user by clicking on image
-    static agitate() {
+    // Takes a "ball selector" function that returns a boolean
+    // Then add velocity to the selected balls with a range of -50 to 50
+    static agitate(func) {
         for (ball of Ball.balls) {
-            ball.vx += Math.floor(Math.random() * 101) - 50;
-            ball.vy += Math.floor(Math.random() * 101) - 50;
+            if (func(ball)) {
+                ball.vx += Math.floor(Math.random() * 101) - 50;
+                ball.vy += Math.floor(Math.random() * 101) - 50;
+            }
         }
     }
 
@@ -138,18 +140,15 @@ function resize() {
     ctx.canvas.height = document.getElementById('html').offsetHeight;
 }
 
-/*
-// Make a clock?
-function clock() {
-  const date = new Date();
-  document.getElementById("").innerHTML = date.toLocaleTimeString();
-}
-*/
+window.addEventListener('mousedown', (e) => {
+    // Returns true if the click was inside of ball, more pythag.
+    Ball.agitate((b) => (b.x - e.clientX)*(b.x - e.clientX) + (b.y - e.clientY)*(b.y - e.clientY) < (b.radius*b.radius))
+})
 
 window.addEventListener('resize', resize);
 const canvas = document.querySelector('#canvas-background');
 const ctx = canvas.getContext('2d');
-const colors = ['NavajoWhite', 'Crimson', 'DarkMagenta', 'DodgerBlue', 'Blue', 'Chartreuse', 'OrangeRed', 'Violet', 'Yellow'];
+const colors = ['Crimson', 'DarkMagenta', 'DodgerBlue', 'Blue', 'Chartreuse', 'OrangeRed', 'Violet', 'Yellow'];
 let gravity = 2;
 let speedLimit = 50;
 
