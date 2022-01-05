@@ -144,7 +144,7 @@ function resize() {
 
 window.addEventListener('mousedown', (e) => {
     // Returns true if the click was inside of ball, more pythag.
-    Ball.agitate((b) => (b.x - e.clientX)*(b.x - e.clientX) + (b.y - e.clientY)*(b.y - e.clientY) < (b.radius*b.radius))
+    Ball.agitate((b) => (b.x - e.pageX)*(b.x - e.pageX) + (b.y - e.pageY)*(b.y - e.pageY) < (b.radius*b.radius))
 })
 
 window.addEventListener('resize', resize);
